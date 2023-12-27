@@ -1,5 +1,6 @@
 # SONAR Rock vs Mine Prediction
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lZoDELoL_U4XiTmMzGVERfDX-GqQZNz8?usp=sharing)
 
 ## Background
 
